@@ -12,3 +12,4 @@ ReconVault is a penetration testing recon automation CLI that creates a clean wo
 git clone https://github.com/Arpitraj93/reconvault
 cd reconvault
 pip3 install -r requirements.txt
+
